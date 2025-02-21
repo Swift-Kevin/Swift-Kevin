@@ -1,32 +1,26 @@
-## Hi there 👋
-## Welcome to my GitHub Repo!
+# Hi there! 👋 I'm Kevin Wall!
+##  About Me
+🚀 Software Engineer | 🎮 Game Developer | 🖥️ C++ & C# User  
+I enjoy developing applications, building tools, and creating games. Most of my projects involve C++, game development, and software engineering.  
 
-## Current Project:
+## 🚀 Tech Stack  
+- **Languages:** C++, C#, HLSL, HTML
+- **APIs & Libraries:** wxWidgets, Vulkan, ENTT, FLECS, IniFile-CPP 
+- **Tools & Platforms:** Visual Studio, GitHub, Perforce, Blender, Krita
+- **Other Interests:** Reading, Low-Poly Aesthetics, UI/UX, Space  
 
+## 🎯 Current Projects  
+- 🎮 **[Untitled Space Shooter](https://swift-kevin.github.io/SitePages/UntitledSpaceShooter.html)** – A low-poly space shooter inspired by Geometry Wars made in Unreal Engine.  
+- 🛠️ **[Course Announcement Manager](https://github.com/Swift-Kevin/OpenLabAutoAnnouncer)** – A modular wxWidgets app for managing announcements.
 
-## All-Time Favorite:
+## 📫 Connect With Me  
+- 🔗 [Portfolio Website](https:/swift-kevin.github.io/)  
+- 🎮 [Itch.io](https://swift-kevin.itch.io)  
+- 💼 [LinkedIn](www.linkedin.com/in/kevinwall-gamedev)  
 
+# Misc Info
+## 🎖️ GitHub Stats  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Swift-Kevin&show_icons=true&theme=github_dark )  
 
-<table>
-  <tb>
-    elem1
-  </tb>
-  <tb>
-    elem2
-  </tb>
-</table>
-
-<!--
-**Swift-Kevin/Swift-Kevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swift-Kevin&theme=github_dark )  
