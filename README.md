@@ -13,9 +13,9 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 - 🛠️ **[Course Announcement Manager](https://github.com/Swift-Kevin/OpenLabAutoAnnouncer)** – A modular wxWidgets app for managing announcements.
 
 ## Connect With Me  
-- 🔗 [Portfolio Website](https:/swift-kevin.github.io/)  
+- 🔗 [Portfolio Site](https://swift-kevin.github.io/)
 - 🎮 [Itch.io](https://swift-kevin.itch.io)  
-- 💼 [LinkedIn](www.linkedin.com/in/kevinwall-gamedev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevinwall-gamedev)
 
 ## GitHub Stats  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Swift-Kevin&show_icons=true&theme=github_dark )  
