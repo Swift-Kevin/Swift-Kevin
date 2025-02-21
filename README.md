@@ -4,10 +4,9 @@
 I enjoy developing applications, building tools, and creating games. Most of my projects involve C++, game development, and software engineering.  
 
 ## 🚀 Tech Stack  
-- **Languages:** C++, C#, HLSL, HTML
-- **APIs & Libraries:** wxWidgets, Vulkan, ENTT, FLECS, IniFile-CPP 
+- **Languages & APIs:** C++, C#, HLSL, HTML, wxWidgets, Vulkan, ENTT, IniFile-CPP 
 - **Tools & Platforms:** Visual Studio, GitHub, Perforce, Blender, Krita
-- **Other Interests:** Reading, Low-Poly Aesthetics, UI/UX, Space  
+- **Other Interests:** Reading, Low-Poly Aesthetics, UI/UX, Space themes
 
 ## 🎯 Current Projects  
 - 🎮 **[Untitled Space Shooter](https://swift-kevin.github.io/SitePages/UntitledSpaceShooter.html)** – A low-poly space shooter inspired by Geometry Wars made in Unreal Engine.  
@@ -18,7 +17,6 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 - 🎮 [Itch.io](https://swift-kevin.itch.io)  
 - 💼 [LinkedIn](www.linkedin.com/in/kevinwall-gamedev)  
 
-# Misc Info
 ## 🎖️ GitHub Stats  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Swift-Kevin&show_icons=true&theme=github_dark )  
 
