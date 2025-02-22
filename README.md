@@ -15,7 +15,7 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 ## Favorite Projects
 [![Ability Shooter](https://github-readme-stats.vercel.app/api/pin/?username=tomOrourke1&repo=Midterm_FPS_Project&theme=github_dark)]()
 
-[![Untitled-RGP-2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark\&description=hide)](https://github.com/Akane-Nishiwake/RPG2025)
+[![RPG 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark\&description=hide)](https://github.com/Akane-Nishiwake/RPG2025)
 
 ## Connect With Me  
 - 🔗 [Portfolio Site](https://swift-kevin.github.io/)
@@ -25,7 +25,7 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 ## GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swift-Kevin&hide_progress=true&theme=github_dark)
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Swift-Kevin\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage)
+![General Stat](https://github-readme-stats.vercel.app/api?username=Swift-Kevin\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage)
 
 
 
