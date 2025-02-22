@@ -3,7 +3,7 @@
 🚀 Software Engineer | 🎮 Game Developer | 🖥️ C++ & C# User  
 I enjoy developing applications, building tools, and creating games. Most of my projects involve C++, game development, and software engineering.  
 
-## Tech Stack  
+## Technical Skills  
 - **Languages & APIs:** C++, C#, HLSL, HTML, wxWidgets, Vulkan, ENTT, IniFile-CPP 
 - **Tools & Platforms:** Visual Studio, GitHub, Perforce, Blender, Krita
 - **Other Interests:** Reading, Low-Poly Aesthetics, UI/UX, Space themes
