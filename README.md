@@ -5,7 +5,7 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 
 ## Technical Skills  
 - **Languages & APIs:** C++, C#, HLSL, HTML, wxWidgets, Vulkan, ENTT, IniFile-CPP 
-- **Tools & Platforms:** Visual Studio, GitHub, Perforce, Blender, Krita
+- **Tools & Platforms:** Visual Studio, Git / GitHub, Perforce, Blender, Krita
 - **Other Interests:** Reading, Low-Poly Aesthetics, UI/UX, Space themes
 
 ## Current Projects  
