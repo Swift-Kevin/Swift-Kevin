@@ -12,13 +12,20 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 - 🎮 **[Untitled Space Shooter](https://swift-kevin.github.io/SitePages/UntitledSpaceShooter.html)** – A low-poly space shooter inspired by Geometry Wars made in Unreal Engine.  
 - 🛠️ **[Course Announcement Manager](https://github.com/Swift-Kevin/OpenLabAutoAnnouncer)** – A modular wxWidgets app for managing announcements.
 
+## Favorite Projects
+[![Ability Shooter](https://github-readme-stats.vercel.app/api/pin/?username=tomOrourke1&repo=Midterm_FPS_Project&theme=github_dark)]()
+
+[![Untitled-RGP-2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark\&description=hide)](https://github.com/Akane-Nishiwake/RPG2025)
+
 ## Connect With Me  
 - 🔗 [Portfolio Site](https://swift-kevin.github.io/)
 - 🎮 [Itch.io](https://swift-kevin.itch.io)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevinwall-gamedev)
 
 ## GitHub Stats  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Swift-Kevin&show_icons=true&theme=github_dark )  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swift-Kevin&hide_progress=true&theme=github_dark)
 
-## Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swift-Kevin&theme=github_dark )  
+![My Github stats](https://github-readme-stats.vercel.app/api?username=Swift-Kevin\&theme=github_dark\&hide_rank=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage)
+
+
+
