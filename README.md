@@ -13,7 +13,7 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 - 🛠️ **[Course Announcement Manager](https://github.com/Swift-Kevin/OpenLabAutoAnnouncer)** – A modular wxWidgets app for managing announcements.
 
 ## Favorite Repo's
-[![Ability Shooter](https://github-readme-stats.vercel.app/api/pin/?username=tomOrourke1&repo=Midterm_FPS_Project&theme=github_dark)]()
+[![Ability Shooter](https://github-readme-stats.vercel.app/api/pin/?username=tomOrourke1&repo=Midterm_FPS_Project&theme=github_dark)](https://github.com/tomOrourke1/Midterm_FPS_Project)
 
 [![RPG 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark\&description=hide)](https://github.com/Akane-Nishiwake/RPG2025)
 
