@@ -16,8 +16,6 @@ I enjoy developing applications, building tools, and creating games. Most of my 
 ## Favorite Repo's
 [![Ability Shooter](https://github-readme-stats.vercel.app/api/pin/?username=tomOrourke1&repo=Midterm_FPS_Project&theme=github_dark)](https://github.com/tomOrourke1/Midterm_FPS_Project/tree/Consolidation)
 
-[![RPG 2025](https://github-readme-stats.vercel.app/api/pin/?username=Akane-Nishiwake&repo=RPG2025\&theme=github_dark\&description=hide)](https://github.com/Akane-Nishiwake/RPG2025)
-
 ## Connect With Me  
 - 🔗 [Portfolio Site](https://swift-kevin.github.io/)
 - 🎮 [Itch.io](https://swift-kevin.itch.io)  
